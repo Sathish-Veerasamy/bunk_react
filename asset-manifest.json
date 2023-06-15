@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Sathish-Veerasamy/bunk_react/static/css/main.896ed13e.css",
+    "main.js": "/Sathish-Veerasamy/bunk_react/static/js/main.301170e8.js",
+    "index.html": "/Sathish-Veerasamy/bunk_react/index.html",
+    "main.896ed13e.css.map": "/Sathish-Veerasamy/bunk_react/static/css/main.896ed13e.css.map",
+    "main.301170e8.js.map": "/Sathish-Veerasamy/bunk_react/static/js/main.301170e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.896ed13e.css",
+    "static/js/main.301170e8.js"
+  ]
+}
