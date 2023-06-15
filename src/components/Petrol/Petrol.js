@@ -6,7 +6,7 @@ const Petrol = () => {
   return (
     <div className="petrolMain">
       <div>
-        <h1>Petrol</h1>
+        <h1>Petrol demo</h1>
       </div>
       <form>
         <div className="oldReading">
